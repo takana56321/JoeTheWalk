@@ -22,7 +22,7 @@
 
 3. **プロジェクトのダウンロード**
    - プロジェクト全体のZIPファイルは以下のリンクからダウンロードできます：
-     [(https://d.kuku.lu/z3j3vuhda)https://d.kuku.lu/z3j3vuhda]
+     [https://d.kuku.lu/z3j3vuhda](https://d.kuku.lu/z3j3vuhda)
    - ダウンロードしたZIPファイルを解凍します。
 
 4. **プロジェクトのクローン（オプション）**
